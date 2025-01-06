@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, React, Vue**
 
-- 👨‍💻 See my portfolio at [https://sungenyeint.github.io/](sungenyeint.github.io)
+- 👨‍💻 See my portfolio at [sungenyeint.github.io/](https://sungenyeint.github.io)
 
 - ✉️ You can contact me at sungenyeint@gmail.com
 
